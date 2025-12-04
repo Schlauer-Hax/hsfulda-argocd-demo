@@ -26,7 +26,7 @@ To install ArgoCD on your cluster:
    ./install-argocd.sh [namespace]
    ```
    
-   If no namespace is provided, the script will use the default namespace.
+   If no namespace is provided, the script will use the "argocd" namespace.
 
 ## What the Script Does
 
